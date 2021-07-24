@@ -6,12 +6,12 @@ There is still many things to improve in this widget so feel free to contribute.
 ## PondWidget
 You can insert any Widget into it, and ripples appear on top of it!
 
-![Pond Widget demo](https://github.com/JakubNeukirch/pond_widget/tree/master/demo/pond_widget.gif)
+![Pond Widget demo](https://media0.giphy.com/media/Urc02wYPOR3vQMr1Ol/giphy.gif?cid=790b761102802912b8fd9b7941c5016fa04215e6ea4364fb&rid=giphy.gif&ct=g)
 
 ## PondButton
 Simple Implementation of button with pond ripple effect applied on it.
 
-![Pond Button demo](https://github.com/JakubNeukirch/pond_widget/tree/master/demo/pond_button.gif)
+![Pond Button demo](https://media2.giphy.com/media/u4qCHWbzyJgH1ytdyG/giphy.gif?cid=790b76112c260e92523f65ebb01eec06dd312b1438cc6b7a&rid=giphy.gif&ct=g)
 
 ## More
 You can check out my twitter: https://twitter.com/Kubenqpl
