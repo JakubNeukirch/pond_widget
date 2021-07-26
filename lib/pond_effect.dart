@@ -170,9 +170,9 @@ class RenderShader extends RenderProxyBox {
 }
 
 Color colorFromABGR(int value) {
-  final alpha = value | 0xff000000;
-  final blue = value | 0x00ff0000;
-  final green = value | 0x0000ff00;
-  final red = value | 0x000000ff;
+  final alpha = value & 0xff000000;
+  final blue = value & 0x00ff0000;
+  final green = value & 0x0000ff00;
+  final red = value & 0x000000ff;
   return Color.fromARGB(alpha, red, green, blue);
 }
